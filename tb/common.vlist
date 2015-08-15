@@ -1,0 +1,4 @@
++incdir+../sv
+../sv/axi_if.sv
+../sv/axi_pkg.sv
+top.sv
