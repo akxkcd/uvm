@@ -5,6 +5,7 @@ use warnings;
 use Cwd;
 
 use Getopt::Long;
+###############################
 # To run: perl create_uvm_env.pl -p design_ex -u design_ex -i design_ex: Generates master only testbench files. 
 # perl create_uvm_env.pl -p design_ex -u design_ex -i design_ex -s slave : Generates slave agent files
 my $packet    = "axi_packet";
